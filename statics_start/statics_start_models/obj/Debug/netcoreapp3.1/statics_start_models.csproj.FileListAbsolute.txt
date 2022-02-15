@@ -1,0 +1,9 @@
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\bin\Debug\netcoreapp3.1\statics_start_models.deps.json
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\bin\Debug\netcoreapp3.1\statics_start_models.dll
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\bin\Debug\netcoreapp3.1\statics_start_models.pdb
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\obj\Debug\netcoreapp3.1\statics_start_models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\obj\Debug\netcoreapp3.1\statics_start_models.AssemblyInfoInputs.cache
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\obj\Debug\netcoreapp3.1\statics_start_models.AssemblyInfo.cs
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\obj\Debug\netcoreapp3.1\statics_start_models.csproj.CoreCompileInputs.cache
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\obj\Debug\netcoreapp3.1\statics_start_models.dll
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_models\obj\Debug\netcoreapp3.1\statics_start_models.pdb

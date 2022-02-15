@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ww7jDXwFTcU+W88z1YFjUoTd6VdP286NMCXubqsapifR2nSqvSkoPzI5fau489aTWtepwRVFWejOqdizhL8bbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jordy's Laptop\\Desktop\\Datamanipulatie\\Oefeningen\\statics_start\\statics_start_wpf\\statics_start_wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jordy's Laptop\\.nuget\\packages\\materialdesigncolors\\2.0.4\\materialdesigncolors.2.0.4.nupkg.sha512",
+    "C:\\Users\\Jordy's Laptop\\.nuget\\packages\\materialdesignthemes\\4.3.0\\materialdesignthemes.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

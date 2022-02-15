@@ -1,0 +1,13 @@
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\bin\Debug\netcoreapp3.1\statics_start_dal.deps.json
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\bin\Debug\netcoreapp3.1\statics_start_dal.dll
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\bin\Debug\netcoreapp3.1\statics_start_dal.pdb
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\bin\Debug\netcoreapp3.1\statics_start_models.dll
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\bin\Debug\netcoreapp3.1\statics_start_models.pdb
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.csproj.AssemblyReference.cache
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.AssemblyInfoInputs.cache
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.AssemblyInfo.cs
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.csproj.CoreCompileInputs.cache
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.csproj.CopyComplete
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.dll
+C:\Users\Jordy's Laptop\Desktop\Datamanipulatie\Oefeningen\statics_start\statics_start_dal\obj\Debug\netcoreapp3.1\statics_start_dal.pdb
